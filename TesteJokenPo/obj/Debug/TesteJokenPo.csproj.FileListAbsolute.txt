@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\bin\Debug\TesteJokenPo.dll
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\bin\Debug\TesteJokenPo.pdb
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\bin\Debug\Program.exe
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\bin\Debug\Program.pdb
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\obj\Debug\TesteJokenPo.csprojResolveAssemblyReference.cache
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\obj\Debug\TesteJokenPo.dll
+C:\Users\filip\Documents\Visual Studio 2013\Projects\Program\TesteJokenPo\obj\Debug\TesteJokenPo.pdb
